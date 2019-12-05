@@ -37,7 +37,7 @@ Table 2: News Domain Detection Hyper-Parameters
 | GRU* | Same as LSTM |
 | Bi-LSTM* | Same as LSTM |
 | Bi-LSTM with attention* | Same as LSTM |
-| Bi-LSTMwith attention** | Same as LSTM |
+| Bi-LSTM with attention** | Same as LSTM |
 | mBERT-base, <br>XLNET-base, <br>RoBERTa-base | MAXSEQLN:128, <br>LR:2e-5, <br>BATCHSIZE:32, <br>EPOCHS: up to 5 |
 | RMDL | EMBSIZE:50<br>MAXSEQUENCELENGTH : 500<br>MAXNBWORDS : 5000<br>Combination of (10 DNNs,10 RNNs,10 CNNs)<br>epochs : 100 each<br>dnn: default parameters except for<br>maxnodesdnn : 512<br>rnn & cnn : default parameters<br>Adam optimizer<br>dropout : 0.07 |
 
