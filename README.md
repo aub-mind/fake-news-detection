@@ -17,6 +17,7 @@ The code is left as is from the competition with minor editing.
 ## Hyper-Parameters
 
 Table 1: Fake News Detection Hyper-Parameters
+
 | Models   |      Hyper-Parameters      |
 |----------|:-------------:|
 | NB |  smoothing parameter=10 |
