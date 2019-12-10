@@ -59,6 +59,7 @@ Table 2: News Domain Detection Hyper-Parameters
         - get_entities.py: Google cloud Language API access code for extracting the entities from the text
         - model.py: Pytorch-based Bi-LSTM with Attention Model
         - train_topic.py: Training script
+* Twitter_bot.ipynb: Notebook with the preproccessing, and model used for the twitter bot detection task
 
 ## Paper:
 *link hopefully coming soon* 
