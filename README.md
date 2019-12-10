@@ -42,5 +42,23 @@ Table 2: News Domain Detection Hyper-Parameters
 | RMDL | EMBSIZE:50<br>MAXSEQUENCELENGTH : 500<br>MAXNBWORDS : 5000<br>Combination of (10 DNNs,10 RNNs,10 CNNs)<br>epochs : 100 each<br>dnn: default parameters except for<br>maxnodesdnn : 512<br>rnn & cnn : default parameters<br>Adam optimizer<br>dropout : 0.07 |
 
 ## Files Description
+* Transformers-Team_AI_Musketeers/
+    - Data_preperation.ipynb: Notebook used for dataset preperation for the transformer based models
+    - Fake_News_BERT_RoBERTa.ipynb and Fake_News_Model_XLNet.ipynb: Notebooks used for transformer model training on the Fake News Dataset on google colab.
+    - Fake_News_Models_with_BERTViz.ipynb: Testing the Bert Visualization tool for better interpretability
+    - News_Domain_BERT_RoBERTa_XLNet.ipynb: Notebook used training the transfomer models on the domain Identidication task on google colab.
+    - News_Domain_ML.ipynb: Notebook used for to evaluate other models on the news domain identification task
+    - modeling.py: Extended the functionality of the BERT, XLNET and RoBERTa to support multilabel classification
+    - multiutils.py: Data preperation and creating the fine-tunnning data for the multilabel classification
+    - utils.py: Data preperation and creating the fine-tunnning data for binary classification
+* Feature_based-Team_FAR_NLP/
+    * fake_news/
+        - google_search.py: Google search API access code for search result extraction
+        - preprocessing.py: Preprocessing source code the fake news arcticles
+    * topic/
+        - get_entities.py: Google cloud Language API access code for extracting the entities from the text
+        - model.py: Pytorch-based Bi-LSTM with Attention Model
+        - train_topic.py: Training script
 
-- Data_preperation.ipynb: Notebook used for dataset preperation for the transformer based models
+## Paper:
+*link hopefully coming soon* 
