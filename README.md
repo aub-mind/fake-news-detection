@@ -62,4 +62,17 @@ Table 2: News Domain Detection Hyper-Parameters
 * Twitter_bot.ipynb: Notebook with the preproccessing, and model used for the twitter bot detection task
 
 ## Paper:
-*link hopefully coming soon* 
+Cite our paper as:
+
+```
+@INPROCEEDINGS{Antoun2020:State,
+AUTHOR="Wissam Antoun and Fady Baly and Rim Achour and Amir Hussein and Hazem Hajj",
+TITLE="State of the Art Models for Fake News Detection Tasks",
+BOOKTITLE="2020 IEEE International Conference on Informatics, IoT, and Enabling
+Technologies (ICIoT) (ICIoT'2020)",
+ADDRESS=", Qatar",
+DAYS=14,
+MONTH=mar,
+YEAR=2020,
+}
+```
