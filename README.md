@@ -11,7 +11,7 @@ The code is left as is from the competition with minor editing.
 
 - [Wissam Antoun](https://github.com/WissamAntoun) wfa07@mail.aub.edu (Transformers-based models for fake news and News Domain identification, and News Domain comparison models)
 - [Fady Baly](https://github.com/fadybaly) fgb06@mail.aub.edu (Feature Based Fake News and News Domain Detection Models)
-- Rim Achour (Feature Based Fake News and News Domain Detection Models)
+- [Rim Achour](https://github.com/RimeA) rga34@mail.aub.edu (Feature Based Fake News and News Domain Detection Models)
 - [Amir Hussein](https://github.com/AmirHussein96) anh21@mail.aub.edu (Feature Based Fake News and News Domain Detection Models and feature importance)
 
 ## Hyper-Parameters
