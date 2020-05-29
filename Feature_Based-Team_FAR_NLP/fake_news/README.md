@@ -1,4 +1,4 @@
-# Code for the QICC Fake News Competition
+# Code for the feature based fake news detection approach
 
 This repository contains source code of the feature based approach used by my team FAR-NLP and achived first place in Fake news detection [QICC fake news competition](https://sites.google.com/view/fakenews-contest)
 
